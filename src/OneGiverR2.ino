@@ -150,4 +150,5 @@ void loop() {
 /* prd = imps
 if (prd <= 200) prd = 200;
 if (prd >= 252) prd = 256;
-if ()*/
+if ()
+Нужно как-то доделать...*/
